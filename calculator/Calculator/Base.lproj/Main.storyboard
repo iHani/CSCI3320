@@ -159,7 +159,6 @@
                                 </state>
                                 <connections>
                                     <action selector="enterPressed" destination="vXZ-lx-hvc" eventType="touchUpInside" id="qmr-AO-egq"/>
-                                    <action selector="enterPressed:" destination="vXZ-lx-hvc" eventType="touchUpInside" id="BJq-ml-uhM"/>
                                 </connections>
                             </button>
                         </subviews>
